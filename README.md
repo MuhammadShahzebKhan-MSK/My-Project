@@ -75,7 +75,7 @@ The dataset contains information about different free and low-cost food programs
 - Dropped irrelevant columns and calculated counts per local area.
 - Stored final outputs in S3 (`opendata-flcfp-trf-msk/Descriptive & Exploratory`).
 
-![Pipeline For Descriptive Analysis](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot%2024-11-26%230618.png)
+![Pipeline For Descriptive Analysis](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot%202024-11-26%20230618.png)
 
 ### **5. Data Enriching**
 
