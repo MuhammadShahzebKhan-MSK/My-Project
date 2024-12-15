@@ -42,7 +42,7 @@ The dataset contains information about different free and low-cost food programs
 - **Meal Cost**: The cost of meals provided (e.g., Free, Low cost).
 - **Hamper Cost**: The cost of hampers provided (e.g., Free, Low cost).
 
-## **DAP Design - Draw.io Diagram **
+## **DAP Design - (Draw.io Diagram)**
 
 ![MY DAP Design](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/image.png)
 
@@ -115,9 +115,4 @@ The dataset contains information about different free and low-cost food programs
 - Enabled better decision-making through comprehensive data analysis.
 
 ---
-
-### **How to Access the Project**
-
-It will be available soon!
-
 
