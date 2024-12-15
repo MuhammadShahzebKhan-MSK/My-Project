@@ -2,15 +2,15 @@
 
 ## **Project Overview**
 
-This project focuses on creating a complete Data Analytics Pipeline (DAP) for analyzing **Free and Low-Cost Food Programs** in Vancouver, leveraging various AWS services. The pipeline covers all essential stages, including data ingestion, profiling, cleaning, enrichment, protection, governance, and observability.
+This project focuses on creating a complete Data Analytics Platform (DAP) for analyzing **Free and Low-Cost Food Programs** in Vancouver City, leveraging various AWS services. This DAP covers all essential stages, including data ingestion, profiling, cleaning, enrichment, protection, governance, and observability.
 
 ## **Project Description**
 
-This project involves analyzing free and low-cost food programs in Vancouver to uncover patterns, trends, and insights. We will focus on geographic coverage, the number of food programs in each local area, and the types of organizations providing meals. Two separate pipelines have been created for the **Descriptive Analysis** and **Exploratory Data Analysis (EDA)** to better understand the data and provide actionable insights.
+This project involves analyzing free and low-cost food programs in Vancouver to uncover patterns, trends, and insights. I have focus on geographic coverage, the number of food programs in each local area, and the types of organizations providing meals. Two separate pipelines have been created for the **Descriptive Data Analysis** and **Exploratory Data Analysis (EDA)** to better understand the data and provide actionable insights.
 
 ## **Objective**
 
-The objective of this project is to design a scalable data pipeline that processes, analyzes, and visualizes data related to free and low-cost food programs. The aim is to uncover insights such as service availability, geographic coverage, and program accessibility.
+The objective of this project is to design a scalable data analytics platform that processes, analyzes, and visualizes data related to free and low-cost food programs. The aim is to uncover insights such as service availability, geographic coverage, and program accessibility.
 
 The primary goal of this project is to:
 1. **Descriptive Analysis**: Count how many food programs are available in each local area.
@@ -26,7 +26,7 @@ Both analyses involve data cleaning, transformation, and visualization to explor
 
 The dataset contains information about different free and low-cost food programs in Vancouver. Each entry includes:
 
-- **Program Name**: The name of the program.
+- **Program Name**: The name of food programs in my dataset.
 - **Description**: Details about the program's services.
 - **Program Status**: Whether the program is open or closed.
 - **Organization Name**: The organization operating the program.
