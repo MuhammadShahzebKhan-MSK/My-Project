@@ -35,6 +35,9 @@ The objective of this project is to design a scalable data pipeline that process
 - Created S3 bucket `opendata-flcfp-raw-msk`.
 - Uploaded raw dataset `free-and-low-cost-food-programs.xlsx`.
 
+![Data Ingestion]([./images/data_ingestion.png](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/image.png)
+
+
 ### **2. Data Profiling**
 
 - Used **AWS Glue DataBrew** for profiling.
