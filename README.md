@@ -117,9 +117,6 @@ The dataset contains information about different free and low-cost food programs
 
 ### **How to Access the Project**
 
-1. Clone the repository.
-2. Explore project files, including code, datasets, and detailed documentation.
-3. Review the `data_analysis.ipynb` notebook for analysis steps.
-4. Use the provided SQL queries for custom data exploration.
+It will be available soon!
 
 
