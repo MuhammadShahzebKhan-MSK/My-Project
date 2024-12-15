@@ -42,15 +42,16 @@ The dataset contains information about different free and low-cost food programs
 - **Meal Cost**: The cost of meals provided (e.g., Free, Low cost).
 - **Hamper Cost**: The cost of hampers provided (e.g., Free, Low cost).
 
+## **DAP Design - Draw.io Diagram **
+
+![MY DAP Design](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/image.png)
+
 ## **Methodology**
 
 ### **1. Data Ingestion**
 
 - Created S3 bucket `opendata-flcfp-raw-msk`.
 - Uploaded raw dataset `free-and-low-cost-food-programs.xlsx`.
-
-![Data Ingestion](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/image.png)
-
 
 ### **2. Data Profiling**
 
