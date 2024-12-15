@@ -22,7 +22,7 @@ Both analyses involve data cleaning, transformation, and visualization to explor
 
 - **Data Source:** [Vancouver Open Data Platform](https://opendata.vancouver.ca/explore/dataset/free-and-low-cost-food-programs/information/?sort=program_name)
 
-![Food Programs in Local Areas](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot 2024-12-15 103847.png)
+![Food Programs in Local Areas](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot%2024-12-15%103847.png)
 
 ## **Dataset Description**
 
@@ -75,7 +75,7 @@ The dataset contains information about different free and low-cost food programs
 - Dropped irrelevant columns and calculated counts per local area.
 - Stored final outputs in S3 (`opendata-flcfp-trf-msk/Descriptive & Exploratory`).
 
-![Pipeline For Descriptive Analysis](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot 2024-11-26 230618.png)
+![Pipeline For Descriptive Analysis](https://muhammadshahzebkhan-msk.github.io/Data-Analyst/Screenshot%2024-11-26%230618.png)
 
 ### **5. Data Enriching**
 
